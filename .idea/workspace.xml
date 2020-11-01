@@ -4,7 +4,7 @@
     <list default="true" id="ef4b3536-6115-4b52-9011-f82ac7fc3279" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js.html" beforeDir="false" afterPath="$PROJECT_DIR$/js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/users.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usersClass.js" beforeDir="false" afterPath="$PROJECT_DIR$/usersClass.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +16,7 @@
       <list>
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -32,8 +33,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -49,7 +51,7 @@
       <workItem from="1603005195875" duration="4124000" />
       <workItem from="1603019061380" duration="6000" />
       <workItem from="1603610664134" duration="5169000" />
-      <workItem from="1604215269347" duration="3261000" />
+      <workItem from="1604215269347" duration="5713000" />
     </task>
     <servers />
   </component>
@@ -57,9 +59,13 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="277" y="77" key="SettingsEditor" timestamp="1603611028874">
+    <state x="436" y="210" key="EditFileWatcherDialog" timestamp="1604218923307">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1603611028874" />
+    <state x="436" y="210" key="EditFileWatcherDialog/0.0.1536.864@0.0.1536.864" timestamp="1604218923307" />
+    <state x="277" y="77" key="SettingsEditor" timestamp="1604218926128">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1604218926128" />
   </component>
 </project>

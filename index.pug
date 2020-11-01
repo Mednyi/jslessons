@@ -1,0 +1,19 @@
+doctype html
+html
+    head
+        meta(charset='utf-8')
+        script(defer src='./jsDOM.js')
+        link(rel='stylesheet' href='./main.css')
+    body
+        header
+            .logo Logotype
+            section.panel
+                input(type='text' placeholder='search')
+        main
+            .card#card1
+                img(src='./drill.jpg' name='product_image')
+                h3 Имя товара
+                p Описание
+                p Цена: 1000р
+        footer
+            section (C) Inc INc

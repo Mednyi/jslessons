@@ -67,6 +67,7 @@ const generateClients = () => {
     }
     return clients;
 }
+
 const clients = generateClients();
 console.log("Employees:", employees);
 console.log("Clients:", clients);
