@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ef4b3536-6115-4b52-9011-f82ac7fc3279" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js.html" beforeDir="false" afterPath="$PROJECT_DIR$/js.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/users.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -45,7 +48,8 @@
       <workItem from="1602418768153" duration="10000" />
       <workItem from="1603005195875" duration="4124000" />
       <workItem from="1603019061380" duration="6000" />
-      <workItem from="1603610664134" duration="4669000" />
+      <workItem from="1603610664134" duration="5169000" />
+      <workItem from="1604215269347" duration="3261000" />
     </task>
     <servers />
   </component>
