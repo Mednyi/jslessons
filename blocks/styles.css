@@ -1,0 +1,9 @@
+body    {
+    margin: 0;
+}
+.wrapper {
+    display: flex;
+}
+.wrapper_centered {
+    justify-content: center;
+}

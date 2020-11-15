@@ -1,0 +1,22 @@
+doctype html
+html
+    head
+        meta(charset='utf-8')
+        link(rel='stylesheet' href='./blocks/styles.css')
+        link(rel='stylesheet' href='./blocks/form/form.css')
+    body
+        .wrapper.wrapper_centered
+            .form
+                h2.form__header Аутентификация
+                .form__input-block
+                    label.form__label Введите e-mail
+                    input(type='text' placeholder='e-mail').form__input.input
+                .form__input-block
+                    label.form__label Введите пароль
+                    input(type='password' placeholder='password').form__input.input
+                .form__consent-block
+                    input(type='checkbox').form__checkbox.checkbox
+                    p.form__consent-text Я согласен на обработку персогальных данных, согласно политике конфиденциальности.
+                .form__buttons-block
+                    button.form__button.button Войти
+                    button.form__button.button Зарегистрироваться

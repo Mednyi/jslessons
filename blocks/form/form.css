@@ -1,0 +1,19 @@
+.form {
+    padding: 16px;
+    display: grid;
+    grid-gap: 16px;
+}
+.form__input-block {
+    display: grid;
+    grid-gap: 4px;
+}
+.form__consent-block {
+    display: flex;
+}
+.form__consent-text {
+    margin: 0;
+}
+.form__buttons-block {
+    display: flex;
+    justify-content: space-between;
+}
